@@ -21,7 +21,7 @@ brew install emacs-plus@28 --with-native-comp
 ```
 Clone & install:
 ```
-git clone git@github.com:kgs1992/.emacs.d.git ~/.emacs.d
+git clone git@github.com:kshexec/.emacs.d.git ~/.emacs.d
 cd ~/.emacs.d
 make
 ```
